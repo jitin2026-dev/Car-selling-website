@@ -50,19 +50,19 @@ Car-selling-website/
 
 ## 🏠 Home Page
 
-![Home](images/home.png)
+![Home](Image/home.png)
 
 ---
 
 ## 🚗 Car Collection
 
-![Cars](images/cars.png)
+![Cars](Image/cars.png)
 
 ---
 
 ## 📞 Contact Section
 
-![Contact](images/contact.png)
+![Contact](Image/contact.png)
 
 ---
 
